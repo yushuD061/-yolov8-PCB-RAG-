@@ -1,0 +1,56 @@
+[
+  {
+    "file": "NASA_Building_Reliable_Circuit_Board_Assemblies.pdf",
+    "bytes": 33761146,
+    "pages": 411,
+    "title": "",
+    "author": "",
+    "first_text": "1Bhanu Sood, NASA GSFC (bhanu.sood@nasa.gov) August 23rdand 24th, 2022 Workshop H : BUILDING RELIABLE CIRCUIT BOARD ASSEMBLIES -THE LESSONS LEARNED Safely Achieve Amazing ScienceThrough Mission Success SAFETYand MISSION ASSURANCE DIRECTORATE Code 300 Bhanu SoodNASA Goddard Space Flight CenterPhone:  +1 (301) 286-5584bhanu.sood@nasa.govAugust 23rdand 24th, 2022 2Bhanu Sood, NASA GSFC (bhanu.sood@nasa.gov) August 23rdand 24th, 2022 DisclaimerThe material herein is presented “for guidance only”. We do not warrant the accuracy of the information set out on this presentation. It may contain technical inaccuracies or errors and/or non-updated data. Information may be changed or updated without notice. 3Bhanu Sood, NASA GSFC (bhanu.sood@nasa.gov) August 23rdand 24th, 2022 Course Outline•Section 1: Introduction •Section 2: PCB Technology•Section 3: Failure Mechanisms•Section 4: Moisture Effects•",
+    "first3_chars": 988
+  },
+  {
+    "file": "NASA_GSFC-STD-8001_Printed_Circuit_Board_QA.pdf",
+    "bytes": 736403,
+    "pages": 33,
+    "title": "",
+    "author": "",
+    "first_text": "GODDARD TECHNICAL STANDARD      Goddard Space Flight Center  Greenbelt, MD 20771    GSFC-STD-8001  Approved:  11-21-2019  Revalidation: 11-21-2024          Standard Quality Assurance Requirements for Printed Circuit Boards                    MEASUREMENT SYSTEM IDENTIFICATION:  METRIC/SI (ENGLISH)       THIS STANDARD HAS BEEN REVIEWED FOR EXPORT CONTROL RESTRICTIONS;  APPROVED FOR PUBLIC RELEASE   DISTRIBUTION IS UNLIMITED Check the GSFC Technical Standards Program website at http://standards.gsfc.nasa.gov or contact the Executive Secretary for the GSFC  Technical Standards Program to verify that this is the correct version prior to use.  2 of 33      NASA GODDARD SPACE FLIGHT CENTER  Greenbelt, Maryland  20771            Approved By:                                                                        Original Signed By:                             Felicia Jones  Director of Engineerin",
+    "first3_chars": 1619
+  },
+  {
+    "file": "NASA_High-Speed_PCB_Design_Guide.pdf",
+    "bytes": 5545624,
+    "pages": 115,
+    "title": "",
+    "author": "",
+    "first_text": "TITLE High-Speed PCB  Design Guide 2 Foreword the theoretical, but also the practical elements. We started offering design layout  services because, for our customers, it comes down to completing the project on  schedule and knowing that the design will work in thousands as well as in ten- piece prototypes.  The impractical design decisions made at the initial design stage will eventually  get baked into the prototype, stay through the lifecycle of the product, and  inadvertently cause quality defects and/or increase costs over the long term.  Yes, a design review can help! But how often do you see a PCB manufacturer at  the table in a design review? And it’s not a one-meeting solution. Designing an optimum PCB that is manufacturable requires immense practical  experience. This practical experience is gained from processing thousands of  designs and understanding the ramifications of pla",
+    "first3_chars": 5016
+  },
+  {
+    "file": "NASA_PCB_Inspection_and_Quality_Control.pdf",
+    "bytes": 5031443,
+    "pages": 84,
+    "title": "PowerPoint Presentation",
+    "author": "SOOD, BHANU P. (GSFC-3710)",
+    "first_text": "1 August 8th and 9th, 2018Bhanu Sood, NASA GSFC (bhanu.sood@nasa.gov) Printed Circuit Board Inspection and Quality  Control – PCB Failure Causes and Cures  (Workshop G) Bhanu Sood Reliability and Risk Assessment Branch Safety and Mission Assurance Directorate NASA Goddard Space Flight Center Phone:  +1 (301) 286-5584 bhanu.sood@nasa.gov August 8th and 9th, 2018 Safely Achieve Amazing Science Through Mission Success SAFETY and MISSION ASSURANCE  DIRECTORATE Code 300 2 August 8th and 9th, 2018Bhanu Sood, NASA GSFC (bhanu.sood@nasa.gov) Disclaimer The material herein is presented “for guidance only”. We do  not warrant the accuracy of the information set out on this  presentation. It may contain technical inaccuracies or errors  and/or non-updated data.  Information may be changed or updated without notice. 3 August 8th and 9th, 2018Bhanu Sood, NASA GSFC (bhanu.sood@nasa.gov) Course Outline",
+    "first3_chars": 5458
+  },
+  {
+    "file": "NASA_PCB_Quality_Metrics_that_Drive_Reliability.pdf",
+    "bytes": 3052965,
+    "pages": 60,
+    "title": "Microsoft PowerPoint - Sood_PDC-18 February 3 2020.ppt [Compatibility Mode]",
+    "author": "bsood",
+    "first_text": "PCB Quality Metrics that  Drive Reliability (PD 18)  Bhanu Sood, Ph.D. Reliability and Risk Assessment Branch NASA Goddard Space Flight Center bhanu.sood@nasa.gov IPC APEX EXPO 2020 February 3rd, 2020 2IPC APEX EXPO 2020 February 3rd, 2020 bhanu.sood@nasa.govIPC APEX EXPO 2020 February 3rd, 2020 bhanu.sood@nasa.gov Disclaimer The material herein is presented “for guidance only”. We do  not warrant the accuracy of the information set out on this  presentation. It may contain technical inaccuracies or errors  and/or non-updated data.  Information may be changed or updated without notice. 3IPC APEX EXPO 2020 February 3rd, 2020 bhanu.sood@nasa.govIPC APEX EXPO 2020 February 3rd, 2020 bhanu.sood@nasa.gov PDC Outline Section 0: Intro Section 1: What is reliability and root cause? Section 2: Overview of failure mechanisms Section 3: Failure analysis techniques – Non-destructive analysis techniq",
+    "first3_chars": 8403
+  },
+  {
+    "file": "NASA_Value_of_Workmanship_Standards.pdf",
+    "bytes": 1953194,
+    "pages": 30,
+    "title": "Hot Topics in the NASA Workmanship Standards Program",
+    "author": "Plante, Jeannette F. (GSFC-3000)",
+    "first_text": "The Value of Workmanship Standards:    What we want   What we ask for  What we get  Jeannette Plante  NASA Workmanship Standards Program Manager  Code 300, Safety Mission Assurance Directorate, NASA GSFC  CQSDI Conference, March 2013 What do we want?      What is the value of the Workmanship Standards? [Workmanship] Quality Assurance:  • Reduces occurrences  of defects  Defects that prevent  achieving:  - intended design  - “durability” goals  (reliability)  Lunar  Reconnaissance  Orbiter (LRO)  LRO Processor Board",
+    "first3_chars": 518
+  }
+]

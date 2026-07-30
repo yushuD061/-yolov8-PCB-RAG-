@@ -1,0 +1,6 @@
+{
+  "name": "TS-YOLO Tracking & Speed Estimation",
+  "description": "High-performance YOLO / ByteTrack multi-target vehicle and pedestrian tracking & speed estimation system using HTML/SVG representation, live telemetry indicators, and interactive dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

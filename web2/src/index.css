@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+:root {
+  --background: #121214;
+  --secondary-bg: #1c1c1e;
+  --tertiary-bg: #2c2c2e;
+  --foreground: #f5f5f7;
+  --muted-text: #8e8e93;
+}
+
+:root.light, .light {
+  --background: #f4f5f6;
+  --secondary-bg: #ffffff;
+  --tertiary-bg: #d1d1d6;
+  --foreground: #1c1c1e;
+  --muted-text: #48484a;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  transition: background-color 0.15s ease-out, color 0.15s ease-out;
+}
+
+/* Enable smooth transitions globally for backgrounds, borders, and texts to eliminate theme switching stutter */
+body,
+header,
+aside,
+main,
+section,
+.bg-\[\#121214\],
+.bg-\[\#1c1c1e\],
+.bg-\[\#2c2c2e\],
+.border-\[\#2c2c2e\],
+.text-white,
+.text-\[\#f5f5f7\],
+.text-\[\#8e8e93\],
+.text-\[\#a2a2a7\],
+select,
+input {
+  transition: background-color 0.15s ease-out, border-color 0.15s ease-out, color 0.15s ease-out;
+}
+
+/* Light Theme overrides for hardcoded Tailwind hex classes */
+.light {
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+.light .bg-\[\#121214\] {
+  background-color: var(--background) !important;
+}
+
+.light .bg-\[\#09090b\] {
+  background-color: #e8e8ed !important;
+}
+
+.light .bg-\[\#0c0c0e\] {
+  background-color: #f0f0f3 !important;
+}
+
+.light .bg-\[\#0e0e11\] {
+  background-color: #ededf0 !important;
+}
+
+.light .bg-\[\#121217\] {
+  background-color: #ededf0 !important;
+}
+
+.light .bg-\[\#1c1c1e\] {
+  background-color: var(--secondary-bg) !important;
+}
+
+.light .bg-\[\#2c2c2e\] {
+  background-color: var(--tertiary-bg) !important;
+}
+
+.light .border-\[\#2c2c2e\] {
+  border-color: var(--tertiary-bg) !important;
+}
+
+.light .text-white {
+  color: var(--foreground) !important;
+}
+
+.light .text-\[\#f5f5f7\] {
+  color: var(--foreground) !important;
+}
+
+.light .text-\[\#8e8e93\] {
+  color: var(--muted-text) !important;
+}
+
+.light .text-\[\#a2a2a7\] {
+  color: var(--muted-text) !important;
+}
+
+.light .text-\[\#cccccc\] {
+  color: #3a3a3c !important;
+}
+
+.light .text-slate-200 {
+  color: #1c1c1e !important;
+}
+
+.light .text-slate-300 {
+  color: #2c2c2e !important;
+}
+
+.light .text-slate-400 {
+  color: #48484a !important;
+}
+
+.light .divide-\[\#2c2c2e\] > * + * {
+  border-color: var(--tertiary-bg) !important;
+}
+
+.light .divide-y.divide-\[\#2c2c2e\] > :not([hidden]) ~ :not([hidden]) {
+  border-color: var(--tertiary-bg) !important;
+}
+
+.light .border-b.border-\[\#2c2c2e\] {
+  border-color: var(--tertiary-bg) !important;
+}
+
+.light .border-r.border-\[\#2c2c2e\] {
+  border-color: var(--tertiary-bg) !important;
+}
+
+.light .bg-black\/40 {
+  background-color: rgba(0, 0, 0, 0.05) !important;
+}
+
+.light .bg-black\/20 {
+  background-color: rgba(0, 0, 0, 0.03) !important;
+}
+
+.light .bg-black\/75 {
+  background-color: rgba(255, 255, 255, 0.92) !important;
+  color: #1c1c1e !important;
+  border-color: var(--tertiary-bg) !important;
+}
+
+.light .bg-black\/80 {
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  color: #1c1c1e !important;
+}
+
+.light .bg-black {
+  background-color: #fafafa !important;
+  color: #1c1c1e !important;
+  border-color: var(--tertiary-bg) !important;
+}
+
+.light .hover\:bg-white\/5:hover {
+  background-color: rgba(0, 0, 0, 0.04) !important;
+}
+
+.light .hover\:bg-white\/10:hover {
+  background-color: rgba(0, 0, 0, 0.06) !important;
+}
+
+.light select, .light input[type="text"], .light input[type="password"], .light input[type="range"] {
+  background-color: var(--background) !important;
+  border-color: var(--tertiary-bg) !important;
+  color: var(--foreground) !important;
+}
+
+.light .bg-black\/30 {
+  background-color: rgba(0, 0, 0, 0.04) !important;
+}
+
+.light .accent-\[\#30d158\] {
+  accent-color: #30d158 !important;
+}
+
+.light .accent-\[\#bf5af2\] {
+  accent-color: #8940c2 !important;
+}
+
+/* Tracking Box overlay items styling */
+.target-box {
+  position: absolute;
+  pointer-events: auto;
+  cursor: pointer;
+  transition: transform 0.08s linear, width 0.08s linear, height 0.08s linear;
+}
+
+.target-box .corner {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border-color: var(--box-color, #0a84ff);
+  border-style: solid;
+}
+.target-box .corner.tl { top: 0; left: 0; border-width: 2px 0 0 2px; }
+.target-box .corner.tr { top: 0; right: 0; border-width: 2px 2px 0 0; }
+.target-box .corner.bl { bottom: 0; left: 0; border-width: 0 0 2px 2px; }
+.target-box .corner.br { bottom: 0; right: 0; border-width: 0 2px 2px 0; }
+
+.target-box.selected {
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.2), 0 0 16px var(--box-color);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+/* Custom mini scrollbars for active flow tables */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: var(--secondary-bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--tertiary-bg);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3a3a3c;
+}

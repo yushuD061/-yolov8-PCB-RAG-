@@ -1,0 +1,386 @@
+[
+  {
+    "chunk_id": "PCB01-P004-C003",
+    "source": "GSFC-STD-8001 Standard Quality Assurance Requirements for Printed Circuit Boards",
+    "page": 4,
+    "chars": 1026,
+    "tokens_cl100k": 187,
+    "preview": "of FOREWORD This standard is published by the Goddard Space Flight Center (GSFC) to provide uniform engineering and technical requirements for processes, procedures, practices, and"
+  },
+  {
+    "chunk_id": "PCB01-P007-C008",
+    "source": "GSFC-STD-8001 Standard Quality Assurance Requirements for Printed Circuit Boards",
+    "page": 7,
+    "chars": 861,
+    "tokens_cl100k": 156,
+    "preview": "Engineering Model Hardware These requirements shall be applied to engineering model hardware in cases where (1) the engineering model is being used to validate manufacturing proces"
+  },
+  {
+    "chunk_id": "PCB01-P009-C012",
+    "source": "GSFC-STD-8001 Standard Quality Assurance Requirements for Printed Circuit Boards",
+    "page": 9,
+    "chars": 900,
+    "tokens_cl100k": 182,
+    "preview": "Requirements herein that are unique to a certain mission risk class (e.g., Class A, Class B, Class C, Class D) shall be applied in accordance with the mission risk class defined by"
+  },
+  {
+    "chunk_id": "PCB01-P012-C015",
+    "source": "GSFC-STD-8001 Standard Quality Assurance Requirements for Printed Circuit Boards",
+    "page": 12,
+    "chars": 1700,
+    "tokens_cl100k": 384,
+    "preview": "Visual acuity per NASA-STD-8739.6, A.7. or IPC-QL-653, 3.5.1.d 4.4. IPC-A- Certified IPC Specialist (CIS) certification, Modules 1, 2, and or IPC-6012 CIS certification with Space "
+  },
+  {
+    "chunk_id": "PCB01-P014-C019",
+    "source": "GSFC-STD-8001 Standard Quality Assurance Requirements for Printed Circuit Boards",
+    "page": 14,
+    "chars": 1141,
+    "tokens_cl100k": 209,
+    "preview": "The Project CSO or their delegate is responsible for reviewing the structural integrity evaluation results and recommending acceptance or rejection of the lot. Successful completio"
+  },
+  {
+    "chunk_id": "PCB01-P016-C022",
+    "source": "GSFC-STD-8001 Standard Quality Assurance Requirements for Printed Circuit Boards",
+    "page": 16,
+    "chars": 1767,
+    "tokens_cl100k": 346,
+    "preview": "Delivery of PCB Lots Procurement requirements shall specify to the vendor that procurement documentation, PCB lot data, and structural integrity test coupons be delivered prior to "
+  },
+  {
+    "chunk_id": "PCB01-P017-C025",
+    "source": "GSFC-STD-8001 Standard Quality Assurance Requirements for Printed Circuit Boards",
+    "page": 17,
+    "chars": 1052,
+    "tokens_cl100k": 233,
+    "preview": "Custom coupons shall comply with IPC-2221 and contain, at a minimum, two sets of three holes, one in the X and one in the Y dimensional planes, as well as a set of three holes to e"
+  },
+  {
+    "chunk_id": "PCB01-P020-C029",
+    "source": "GSFC-STD-8001 Standard Quality Assurance Requirements for Printed Circuit Boards",
+    "page": 20,
+    "chars": 1777,
+    "tokens_cl100k": 341,
+    "preview": "of compliance with the requirements imposed by the procurement documents including those imposed by the PCB drawing notes. GSFC shall perform lot acceptance by: Reviewing the deliv"
+  },
+  {
+    "chunk_id": "PCB01-P021-C032",
+    "source": "GSFC-STD-8001 Standard Quality Assurance Requirements for Printed Circuit Boards",
+    "page": 21,
+    "chars": 1315,
+    "tokens_cl100k": 261,
+    "preview": "The GSFC-assessed third-party structural integrity analysis lab shall only receive work instructions or directions from GSFC. Structural Integrity Analysis 1. The third-party struc"
+  },
+  {
+    "chunk_id": "PCB01-P023-C035",
+    "source": "GSFC-STD-8001 Standard Quality Assurance Requirements for Printed Circuit Boards",
+    "page": 23,
+    "chars": 1780,
+    "tokens_cl100k": 343,
+    "preview": "of Board CRAE on a quarterly basis. The testing lab should assess: i. Time that coupon submissions are in the queue prior to start of the evaluation ii. Time from start of evaluati"
+  },
+  {
+    "chunk_id": "PCB01-P025-C039",
+    "source": "GSFC-STD-8001 Standard Quality Assurance Requirements for Printed Circuit Boards",
+    "page": 25,
+    "chars": 568,
+    "tokens_cl100k": 112,
+    "preview": "When an alternate standard or criteria as defined by 6.3. of GSFC-STD-8001 has been used or will be used to design, manufacture, test, or inspect PCBs for flight, flight spare and "
+  },
+  {
+    "chunk_id": "PCB01-P028-C043",
+    "source": "GSFC-STD-8001 Standard Quality Assurance Requirements for Printed Circuit Boards",
+    "page": 28,
+    "chars": 1791,
+    "tokens_cl100k": 365,
+    "preview": "of DID C Printed Circuit Board (PCB) Test Coupons Title: Printed Circuit Board (PCB) Test Coupons DID No.: C MAR Paragraph: x.x.x Use: PCB test coupons are evaluated to validate th"
+  },
+  {
+    "chunk_id": "PCB01-P031-C047",
+    "source": "GSFC-STD-8001 Standard Quality Assurance Requirements for Printed Circuit Boards",
+    "page": 31,
+    "chars": 1239,
+    "tokens_cl100k": 242,
+    "preview": "of Preparation Information: The supplier shall provide reports from GSFC or a GSFC-assessed laboratory for PCB test coupons that are directly traceable to each board that is intend"
+  },
+  {
+    "chunk_id": "PCB01-P033-C050",
+    "source": "GSFC-STD-8001 Standard Quality Assurance Requirements for Printed Circuit Boards",
+    "page": 33,
+    "chars": 564,
+    "tokens_cl100k": 99,
+    "preview": "of o Applicable printed board performance standard o Fabrication notes or procurement specifications  Note of any waiver or deviation affecting printed board requirements or accep"
+  },
+  {
+    "chunk_id": "PCB02-P001-C001",
+    "source": "Printed Circuit Board Inspection and Quality Control - PCB Failure Causes and Cures",
+    "page": 1,
+    "chars": 1209,
+    "tokens_cl100k": 241,
+    "preview": "Printed Circuit Board Inspection and Quality Control – PCB Failure Causes and Cures (Workshop G) Bhanu Sood Reliability and Risk Assessment Branch Safety and Mission Assurance Dire"
+  },
+  {
+    "chunk_id": "PCB02-P006-C008",
+    "source": "Printed Circuit Board Inspection and Quality Control - PCB Failure Causes and Cures",
+    "page": 6,
+    "chars": 1293,
+    "tokens_cl100k": 286,
+    "preview": "The epoxy groups react in subsequent re sin polymerization and result in curing of the resin system EpoxideEpoxide DGEBA (Bi-functional epoxy resin) + Bisphenol-AEpichlorohydrin Te"
+  },
+  {
+    "chunk_id": "PCB02-P013-C015",
+    "source": "Printed Circuit Board Inspection and Quality Control - PCB Failure Causes and Cures",
+    "page": 13,
+    "chars": 1627,
+    "tokens_cl100k": 335,
+    "preview": "Once all the cores that go into the finished board are ready, they get released to kitting, where all the materials are put together to make a “blank”. Copper foil will be placed o"
+  },
+  {
+    "chunk_id": "PCB02-P020-C023",
+    "source": "Printed Circuit Board Inspection and Quality Control - PCB Failure Causes and Cures",
+    "page": 20,
+    "chars": 1059,
+    "tokens_cl100k": 231,
+    "preview": "Case Study and Discussion Blistering IPC-A- Section 3.1.4, Class 3: Acceptable •Max two per side •Not exceeding 0.25mm Nonconforming •More than two per side •Larger than 0.25mm Bli"
+  },
+  {
+    "chunk_id": "PCB02-P026-C030",
+    "source": "Printed Circuit Board Inspection and Quality Control - PCB Failure Causes and Cures",
+    "page": 26,
+    "chars": 891,
+    "tokens_cl100k": 189,
+    "preview": "Hollow Fibers Hollow fibers are vacuous glass filaments in E-glass laminates which can provide paths for CAF. With the appearance of hollow fibers inside the laminates, CAF can hap"
+  },
+  {
+    "chunk_id": "PCB02-P032-C037",
+    "source": "Printed Circuit Board Inspection and Quality Control - PCB Failure Causes and Cures",
+    "page": 32,
+    "chars": 1009,
+    "tokens_cl100k": 205,
+    "preview": "The Impact of Intermittents ¾ Can not determine root cause and thus the reason for the failure (NFF) ¾ Reliability modeling analysis can be faulty ¾ Potential safety hazards ¾ Decr"
+  },
+  {
+    "chunk_id": "PCB02-P036-C045",
+    "source": "Printed Circuit Board Inspection and Quality Control - PCB Failure Causes and Cures",
+    "page": 36,
+    "chars": 1074,
+    "tokens_cl100k": 266,
+    "preview": "Measuring the buckling forc e using various length of whisker probes Buckling Force 1/2* ¸¸ ¹ · ¨¨ © § ¸¸ ¹ · ¨¨ © §| 32)( L dE KL EIFB S S E=Young’s modulus of whisker I=Area mome"
+  },
+  {
+    "chunk_id": "PCB02-P043-C054",
+    "source": "Printed Circuit Board Inspection and Quality Control - PCB Failure Causes and Cures",
+    "page": 43,
+    "chars": 1255,
+    "tokens_cl100k": 269,
+    "preview": "V oltage Bias/V oltage Gradient Contamination (type and concentration) – Halide vs non-halide –O r g a n i c s Conductor material (copper, silver, tin/lead, etc.) Conductor pre-tre"
+  },
+  {
+    "chunk_id": "PCB02-P050-C061",
+    "source": "Printed Circuit Board Inspection and Quality Control - PCB Failure Causes and Cures",
+    "page": 50,
+    "chars": 1532,
+    "tokens_cl100k": 332,
+    "preview": "Wicking and Capillary Action Although the concept of capillary action is similar to wicking, – Distinction lies in that wicking is used to describe enhanced moisture absorption due"
+  },
+  {
+    "chunk_id": "PCB02-P057-C068",
+    "source": "Printed Circuit Board Inspection and Quality Control - PCB Failure Causes and Cures",
+    "page": 57,
+    "chars": 1212,
+    "tokens_cl100k": 240,
+    "preview": "Calculate the bulk moisture c ontent using the following equation: Calculate the moisture absorption rate by plotting the bulk moisture content versus time using the data recorded."
+  },
+  {
+    "chunk_id": "PCB02-P064-C076",
+    "source": "Printed Circuit Board Inspection and Quality Control - PCB Failure Causes and Cures",
+    "page": 64,
+    "chars": 991,
+    "tokens_cl100k": 201,
+    "preview": "Measures for Moisture Control During Receiving & Handling – Ensure that each bag contains a HIC. Check HIC immediately (in controlled ambient). Verify HIC indicates an acceptable h"
+  },
+  {
+    "chunk_id": "PCB02-P071-C083",
+    "source": "Printed Circuit Board Inspection and Quality Control - PCB Failure Causes and Cures",
+    "page": 71,
+    "chars": 1755,
+    "tokens_cl100k": 333,
+    "preview": "By eliminating the need for a conductive coating, ESEM allows imaging of delicate structures and permits subsequent energy-dispersive X-ray spectroscopy (EDS) compositional analysi"
+  },
+  {
+    "chunk_id": "PCB02-P077-C090",
+    "source": "Printed Circuit Board Inspection and Quality Control - PCB Failure Causes and Cures",
+    "page": 77,
+    "chars": 1682,
+    "tokens_cl100k": 317,
+    "preview": "Damage Incremental Removal of Damage Each abrasive step leaves deformation. As abrasive size is reduced, less deformation is left behind. Deformation Coarse Grind Deformation Fine "
+  },
+  {
+    "chunk_id": "PCB02-P084-C097",
+    "source": "Printed Circuit Board Inspection and Quality Control - PCB Failure Causes and Cures",
+    "page": 84,
+    "chars": 827,
+    "tokens_cl100k": 168,
+    "preview": "Printed circuit board (PCB) quality and functionality are influenced by a variety of factors. The workshop provided overvi ew of mechanisms and analysis guidelines that can be impl"
+  },
+  {
+    "chunk_id": "PCB03-P001-C001",
+    "source": "PCB Quality Metrics that Drive Reliability",
+    "page": 1,
+    "chars": 1778,
+    "tokens_cl100k": 447,
+    "preview": "PCB Quality Metrics that Drive Reliability (PD 18) Bhanu Sood, Ph.D. Reliability and Risk Assessment Branch NASA Goddard Space Flight Center Disclaimer The material herein is prese"
+  },
+  {
+    "chunk_id": "PCB03-P005-C008",
+    "source": "PCB Quality Metrics that Drive Reliability",
+    "page": 5,
+    "chars": 1354,
+    "tokens_cl100k": 252,
+    "preview": "Cost of a Single Unplanned Data Center Outage Across Industries The average cost of data center downtime across industries was approximately $5, per minute. Ponemon Inst., 䇾Calcula"
+  },
+  {
+    "chunk_id": "PCB03-P011-C016",
+    "source": "PCB Quality Metrics that Drive Reliability",
+    "page": 11,
+    "chars": 1633,
+    "tokens_cl100k": 308,
+    "preview": "Significance of Printed Circuit Board Requirements The requirements and coupons are a “front door”. Examples: – Internal Annular Ring: Egregious violations indicate there may have "
+  },
+  {
+    "chunk_id": "PCB03-P015-C023",
+    "source": "PCB Quality Metrics that Drive Reliability",
+    "page": 15,
+    "chars": 1775,
+    "tokens_cl100k": 374,
+    "preview": "Internal Annular Ring Less Than 2. mil Contributors Drilled-hole pattern not matching the lands on the internal layers (Misregistration). Prelamination treatments that involve scru"
+  },
+  {
+    "chunk_id": "PCB03-P019-C030",
+    "source": "PCB Quality Metrics that Drive Reliability",
+    "page": 19,
+    "chars": 1460,
+    "tokens_cl100k": 218,
+    "preview": "ThicknessMaterial Warpage Assembly Process Inner layer etching Artwork Quality Inspection Photolithography Capability Tolerance Drilling Deburr Cleaning Stack up Registration Toler"
+  },
+  {
+    "chunk_id": "PCB03-P022-C037",
+    "source": "PCB Quality Metrics that Drive Reliability",
+    "page": 22,
+    "chars": 1207,
+    "tokens_cl100k": 228,
+    "preview": "Time Domain Reflectometry (TDR) Electron Beam Testing – electron beam induced current (EBIC), – voltage contrast (VC), – cathodoluminescence (CL) Scanning Probe Microscopy Thermal "
+  },
+  {
+    "chunk_id": "PCB03-P029-C046",
+    "source": "PCB Quality Metrics that Drive Reliability",
+    "page": 29,
+    "chars": 1740,
+    "tokens_cl100k": 356,
+    "preview": "PTH Failures (cont.) Wall-Pad separation Pad delamination Board PTH Circumferential crack Pad corner crack Etch pit Ref: M., et al. \"Influence of selected design variables on therm"
+  },
+  {
+    "chunk_id": "PCB03-P034-C054",
+    "source": "PCB Quality Metrics that Drive Reliability",
+    "page": 34,
+    "chars": 1690,
+    "tokens_cl100k": 361,
+    "preview": "Intermittent Failures Due to Fretting Corrosion Tin alloys are soft metals on which a thin but hard oxide layer is rapidly formed. Being supported by a soft substrate, this layer i"
+  },
+  {
+    "chunk_id": "PCB03-P038-C061",
+    "source": "PCB Quality Metrics that Drive Reliability",
+    "page": 38,
+    "chars": 811,
+    "tokens_cl100k": 186,
+    "preview": "THB Failure Analysis Methodology for Biased MLCCs A Buehler MPC 2000 (with micron lapping film) was used to cross-section the MLCC. The MLCC (on a PCB) was mounted to a fixture usi"
+  },
+  {
+    "chunk_id": "PCB03-P045-C068",
+    "source": "PCB Quality Metrics that Drive Reliability",
+    "page": 45,
+    "chars": 938,
+    "tokens_cl100k": 205,
+    "preview": "External Visual Inspection Low power stereo macroscope (up to 65x) –O v e r v i e w – Package level – PCB level Typical stereo macroscope Higher power light optical microscopes Upr"
+  },
+  {
+    "chunk_id": "PCB03-P052-C076",
+    "source": "PCB Quality Metrics that Drive Reliability",
+    "page": 52,
+    "chars": 1452,
+    "tokens_cl100k": 281,
+    "preview": "Polishing Principles ¾ Further refinement of ground surface using resilient cloth surfaces charged with abrasive particles ¾ Depending on material characteristics, cloth selected m"
+  },
+  {
+    "chunk_id": "PCB03-P059-C083",
+    "source": "PCB Quality Metrics that Drive Reliability",
+    "page": 59,
+    "chars": 1381,
+    "tokens_cl100k": 245,
+    "preview": "Failures with severe consequences (e.g., safety) may require processes (e.g., manufacturing, distribution) to be interrupted after discovery of the failure. Depending upon the iden"
+  },
+  {
+    "chunk_id": "PCB04-P004-C001",
+    "source": "The Value of Workmanship Standards",
+    "page": 4,
+    "chars": 582,
+    "tokens_cl100k": 113,
+    "preview": "[Workmanship] Quality Assurance: Quality Baseline: “Best we know how” to build quality in at low level of assembly – Screening for observable artifacts shown in the past to cause f"
+  },
+  {
+    "chunk_id": "PCB04-P009-C003",
+    "source": "The Value of Workmanship Standards",
+    "page": 9,
+    "chars": 568,
+    "tokens_cl100k": 112,
+    "preview": "From NASA-STD-8739.4, para 7. Precautions shall be taken to prevent the mismating of connectors, caused by interchanging or by reversing, through one of the following techniques: U"
+  },
+  {
+    "chunk_id": "PCB04-P012-C006",
+    "source": "The Value of Workmanship Standards",
+    "page": 12,
+    "chars": 1380,
+    "tokens_cl100k": 261,
+    "preview": "When major elements of the proven processes are changed (e.g., flux, solder paste, cleaning media or system, solder alloy or soldering system), validation of the acceptability of t"
+  },
+  {
+    "chunk_id": "PCB04-P013-C007",
+    "source": "The Value of Workmanship Standards",
+    "page": 13,
+    "chars": 981,
+    "tokens_cl100k": 176,
+    "preview": "How do we ask for absence of defects due to uncontrolled processes? From NASA-STD-8739.4, para. The supplier shall assure that the design personnel are familiar with the requiremen"
+  },
+  {
+    "chunk_id": "PCB04-P015-C008",
+    "source": "The Value of Workmanship Standards",
+    "page": 15,
+    "chars": 515,
+    "tokens_cl100k": 119,
+    "preview": "Commercial-off-the-shelf (COTS) NASA-STD-8739.6, para. 1.2.3, “The workmanship requirements of [NASA’s Workmanship Standards] do not apply to suppliers of commercial-off-the-shelf "
+  },
+  {
+    "chunk_id": "PCB04-P017-C009",
+    "source": "The Value of Workmanship Standards",
+    "page": 17,
+    "chars": 867,
+    "tokens_cl100k": 155,
+    "preview": "Why don’t we always get compliance to Workmanship requirements? Failure to flow down requirements. The requirements are there but they do not get applied or they are not flown down"
+  },
+  {
+    "chunk_id": "PCB04-P020-C012",
+    "source": "The Value of Workmanship Standards",
+    "page": 20,
+    "chars": 753,
+    "tokens_cl100k": 124,
+    "preview": "Experienced Operators Path to Success: Luck or Quality Assurance Process Used Before Process is Documented Process Parameters Controlled Product is Qualified Operators are Trained "
+  },
+  {
+    "chunk_id": "PCB04-P030-C014",
+    "source": "The Value of Workmanship Standards",
+    "page": 30,
+    "chars": 635,
+    "tokens_cl100k": 103,
+    "preview": "Defect prevention is highly dependent on Process Engineering though this role is not named in the Workmanship standards nor is training required. NASA’s business model draws them t"
+  }
+]

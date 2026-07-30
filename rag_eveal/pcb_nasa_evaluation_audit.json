@@ -1,0 +1,25 @@
+{
+  "source_files": [
+    "NASA_GSFC-STD-8001_Printed_Circuit_Board_QA.pdf",
+    "NASA_PCB_Inspection_and_Quality_Control.pdf",
+    "NASA_PCB_Quality_Metrics_that_Drive_Reliability.pdf",
+    "NASA_Value_of_Workmanship_Standards.pdf"
+  ],
+  "selected_chunks": 48,
+  "written_rows": 43,
+  "max_chars": 1780,
+  "max_tokens_cl100k": 384,
+  "rows_by_source": {
+    "PCB01": 13,
+    "PCB02": 13,
+    "PCB03": 9,
+    "PCB04": 8
+  },
+  "output": "D:\\agent\\test4\\rag_eveal\\pcb_nasa_evaluation.csv",
+  "validation": {
+    "duplicate_chunk_ids": 0,
+    "duplicate_questions": 0,
+    "empty_cells": 0,
+    "invalid_references": 0
+  }
+}

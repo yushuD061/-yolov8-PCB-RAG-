@@ -1,0 +1,32 @@
+# ═══════════════════════════════════════════════════════
+# PCB 缺陷检测系统 — Python 依赖
+# 安装: pip install -r requirements.txt
+# 或使用 uv: uv pip install -r requirements.txt
+# ═══════════════════════════════════════════════════════
+
+# ── Web 框架 ──
+fastapi>=0.115.0
+uvicorn[standard]>=0.34.0
+python-multipart>=0.0.18
+pydantic>=2.0
+
+# ── 计算机视觉 / YOLO ──
+numpy>=1.26.0
+opencv-python>=4.10.0
+ultralytics>=8.3.0
+psutil>=6.1.0
+
+# ── RAG 知识库 ──
+scikit-learn>=1.5.0
+jieba>=0.42
+python-dotenv>=1.0
+
+# ── RAG 可观测性（可选，默认不启用追踪）──
+langsmith==0.10.2
+
+# ── 向量数据库（可选，无则不启用 PG/Chroma 模式）──
+psycopg2-binary>=2.9
+chromadb>=0.4.0
+
+# ── 文档解析（可选，无则仅支持 .txt/.md）──
+pypdf>=4.0

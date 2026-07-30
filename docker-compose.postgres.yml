@@ -1,0 +1,35 @@
+name: pcb-defect-detection
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: pcb-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-pcb_app}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?请在 .env.postgres 中设置 POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB:-agent_memory}
+      TZ: ${TZ:-Asia/Shanghai}
+    ports:
+      - "127.0.0.1:${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - pcb_postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test:
+        - CMD-SHELL
+        - pg_isready -U "$${POSTGRES_USER}" -d "$${POSTGRES_DB}"
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+    networks:
+      - pcb_backend
+
+volumes:
+  pcb_postgres_data:
+    name: pcb_postgres_data
+
+networks:
+  pcb_backend:
+    name: pcb_backend
+

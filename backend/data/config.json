@@ -1,0 +1,15 @@
+{
+  "detectionConfidence": 0.45,
+  "iouThreshold": 0.5,
+  "selectedModel": "yolo26n",
+  "saveResults": true,
+  "retentionDays": 7,
+  "jpegQuality": 100,
+  "maxFps": 30,
+  "npuMode": "balanced",
+  "tempWarning": 70,
+  "reviewThreshold": 0.5,
+  "consecutiveAlerts": 3,
+  "localInference": true,
+  "enableInferenceTelemetry": false
+}

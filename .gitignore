@@ -1,0 +1,48 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local secrets
+.env
+.env.*
+!.env.*.example
+backend/agent/.env
+!backend/agent/.env.example
+
+# Local caches and runtime data
+.npm-cache/
+.vite/
+.uv-cache/
+.reasonix/
+.vscode/
+.agents/
+.codex/
+.uploads/
+tmp/
+node_modules/
+web2/node_modules/
+web2/dist/
+*.db
+*.dump
+backend/data/detection_results/
+backend/data/chroma/
+data/chroma/
+outputs/
+rag_eveal/results/
+rag_eveal/data/chroma_evaluation/
+
+# Evaluation source documents and generated previews
+rag_eveal/candidate_documents/*.pdf
+rag_eveal/candidate_documents/_preview/
+
+# Local Codex deliverables and tooling config
+backend-agent-project-resume-pack.md
+backend-agent-project-resume-pack.pdf
+reasonix.toml
